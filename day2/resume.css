@@ -1,0 +1,22 @@
+#box{
+    height: 500;
+    width: 280;
+    margin: auto 200px;
+    border: rgb(219, 170, 170), solid, 2px;
+}
+}
+#box1{
+    border: black, solid, 2px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#exc{
+    text-align: center;
+    height: 40px;
+}
+#exc1{
+    text-align: center;
+    height: 100px;
+}
