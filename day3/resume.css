@@ -1,0 +1,32 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#exc{
+    text-align: center;
+    height: 40px;
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 40px;
+    text-shadow: aqua;
+    font-style: oblique;
+    color: blueviolet;
+}
+#exc1{
+    text-align: center;
+    height: 100px;
+    font-family: Arial;
+    font-size: 20px;
+    font-style: oblique;
+    color: blueviolet;
+}
+body{
+    background-color: rgb(197, 186, 186);
+}
+#box{
+    margin: auto 350px;
+    height: 300px;
+    width: 800px;
+    margin-top: 100px;
+}
